@@ -1,0 +1,2 @@
+"k","Accuracy","Sensitivity","Specificity","Precision","Balanced_Acc","AUC","CFSR_Found","CFSR_Total","TN","FP","FN","TP"
+"k3",82.67,47.06,93.1,66.67,70.08,0.8692,8,17,54,4,9,8
