@@ -1,0 +1,18 @@
+# ---- Data (patient/clinical — never commit) ----
+data/
+*_predictions_*.csv
+final_dataset.csv
+
+# ---- R session / workspace ----
+.RData
+.Rhistory
+.Rproj.user/
+.Ruserdata/
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
